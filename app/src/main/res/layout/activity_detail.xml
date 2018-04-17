@@ -34,7 +34,7 @@
         android:id="@+id/newsTitleDetail"
         android:text="@string/news_placeholder"
         android:padding="16dp"
-        style="@style/TextAppearance.AppCompat.Subhead" />
+        style="@style/SportsDetailText" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -43,7 +43,7 @@
         android:id="@+id/subTitleDetail"
         android:text="@string/lorem_ipsum"
         android:padding="16dp"
-        style="@style/TextAppearance.AppCompat.Subhead" />
+        style="@style/SportsDetailText" />
 
 </RelativeLayout>
 
